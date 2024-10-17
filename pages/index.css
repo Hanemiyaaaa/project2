@@ -8,3 +8,9 @@
 @import url('../blocks/header/__illustration/header__illustration.css');
 @import url('../blocks/header/__background/header__background.css');
 @import url('../blocks/rotation/rotation.css');
+@import url('../blocks/description/description.css');
+@import url('../blocks/description/__brief/description__brief.css');
+@import url('../blocks/description/__main-text/description__main-text.css');
+@import url('../blocks/description/__paragraph/description__paragraph.css');
+@import url('../blocks/description/__conclusion/description__conclusion.css');
+@import url('../blocks/description/__span-accent/description__span-accent.css');
