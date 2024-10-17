@@ -14,3 +14,13 @@
 @import url('../blocks/description/__paragraph/description__paragraph.css');
 @import url('../blocks/description/__conclusion/description__conclusion.css');
 @import url('../blocks/description/__span-accent/description__span-accent.css');
+@import url('../blocks/digits/digits.css');
+@import url('../blocks/Title/title.css');
+@import url('../blocks/Title/__digits/digits__Title.css');
+@import url('../blocks/Subtitle/subtitle.css');
+@import url('../blocks/Subtitle/__digits/digits__Subtitle.css');
+@import url('../blocks/digits/__table/digits__table.css');
+@import url('../blocks/digits/__cells/digits__cells.css');
+@import url('../blocks/digits/__title/digits__title.css');
+@import url('../blocks/digits/__text/digits__text.css');
+@import url('../blocks/digits/__text-org/digits__text-org.css');
